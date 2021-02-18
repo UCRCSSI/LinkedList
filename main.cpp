@@ -12,5 +12,6 @@ int main() {
     List.push_back(4);
     List.push_back(-3);
     List.remove(1);
+    List.PrintList();
     // Write your own cases below here
 }
